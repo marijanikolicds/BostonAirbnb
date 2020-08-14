@@ -17,7 +17,7 @@ I was interestested in better understanding:
 2. What factors about a property contributed to price and how?
 3. What makes a property attractive?
 
-The full set of files related to this project is available [here](https://www.kaggle.com/airbnb/boston). 
+The full set of data related to this project is available [here](https://www.kaggle.com/airbnb/boston). 
 
 ## File Descriptions
 There are 3 notebooks available here. Each notebook is related to one of the above questions. 
