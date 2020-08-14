@@ -26,5 +26,5 @@ There is an additional folder `Data`, that contains data files.
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@marija.e2/airbnb-boston-how-people-choose-where-to-stay-7f58b1697414).
 
-Licensing, Authors, Acknowledgements
+## Licensing, Authors, Acknowledgements
 Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston). Otherwise, feel free to use the code here as you would like!
