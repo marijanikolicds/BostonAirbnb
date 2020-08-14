@@ -21,6 +21,7 @@ The full set of data related to this project is available [here](https://www.kag
 
 ## File Descriptions
 There are 3 notebooks available here. Each notebook is related to one of the above questions. 
+There is an additional folder `Data`, that contains data files.
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@marija.e2/airbnb-boston-how-people-choose-where-to-stay-7f58b1697414).
